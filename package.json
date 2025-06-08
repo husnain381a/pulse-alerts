@@ -1,6 +1,6 @@
 {
   "name": "pulse-alerts",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "A lightweight and customizable JavaScript popup notification library with built-in animations, auto-dismiss timers, and support for success, error, info, and warning alerts—no external CSS needed.",
   "keywords": [
     "popup",
