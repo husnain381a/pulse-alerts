@@ -1,0 +1,28 @@
+{
+  "name": "pulse-alerts",
+  "version": "1.1.0",
+  "description": "A lightweight and customizable JavaScript popup notification library with built-in animations, auto-dismiss timers, and support for success, error, info, and warning alerts—no external CSS needed.",
+  "keywords": [
+    "popup",
+    "alert",
+    "toast",
+    "notification",
+    "javascript",
+    "sweetalert"
+  ],
+  "homepage": "https://github.com/husnain381a/pulse-alerts#readme",
+  "bugs": {
+    "url": "https://github.com/husnain381a/pulse-alerts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husnain381a/pulse-alerts.git"
+  },
+  "license": "ISC",
+  "author": "Husnain Mazhar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
