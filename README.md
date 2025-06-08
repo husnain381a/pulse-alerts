@@ -7,8 +7,12 @@
 
 ```bash
 npm install pulse-alerts
+```
+
+---
 
 ## Usage
+
 ```js
 import { showPopup } from 'pulse-alerts';
 
@@ -18,3 +22,6 @@ showPopup({
   duration: 3000,            // popup auto closes after 3000ms
   showClose: true            // show close (×) button, optional
 });
+```
+
+---
