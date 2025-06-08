@@ -8,6 +8,8 @@
 ```bash
 npm install pulse-alerts
 
+## Usage
+```js
 import { showPopup } from 'pulse-alerts';
 
 showPopup({
